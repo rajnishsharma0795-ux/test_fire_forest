@@ -1,0 +1,5 @@
+flask
+pickel
+pandas
+numpy
+scikit-learn
