@@ -35,9 +35,6 @@ def predict_datapoint():
 
         return render_template('home1.html', results=result)
 
-
-
-
     else:
         return render_template('home1.html')
 
